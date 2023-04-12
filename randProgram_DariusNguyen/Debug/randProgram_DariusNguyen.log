@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Duy\Downloads\usb backup\99 backup\C++\C++\randProgram_DariusNguyen\randProgram_DariusNguyen\main.cpp(83,16): warning C4838: conversion from 'unsigned short' to 'SHORT' requires a narrowing conversion
+C:\Users\Duy\Downloads\usb backup\99 backup\C++\C++\randProgram_DariusNguyen\randProgram_DariusNguyen\main.cpp(83,21): warning C4838: conversion from 'unsigned short' to 'SHORT' requires a narrowing conversion
+C:\Users\Duy\Downloads\usb backup\99 backup\C++\C++\randProgram_DariusNguyen\randProgram_DariusNguyen\main.cpp(236,19): warning C4309: 'initializing': truncation of constant value
+  randProgram_DariusNguyen.vcxproj -> C:\Users\Duy\Downloads\usb backup\99 backup\C++\C++\randProgram_DariusNguyen\Debug\randProgram_DariusNguyen.exe
